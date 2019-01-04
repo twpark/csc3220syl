@@ -4,7 +4,7 @@ Use the navigation and search features to find necessary information.
 
 
 # Times and Locations
-* **Meeting Times**: Tu/Th 9:30am – 11:00am in Otto Miller Hall (OMH) 244
+* **Meeting Times**: (No Tu) Th 9:30am – 11:00am in Otto Miller Hall (OMH) 244
 * **No Mid-term / Final Exam**: Projects will be assigned
 
 
