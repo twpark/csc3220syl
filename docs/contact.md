@@ -12,13 +12,10 @@ Once you sign-up, you can use [sputwp.slack.com](http://sputwp.slack.com) to ope
 
 # Contact Method #2: Open Office Hours
 
-You can stop by during the following times to ask questions without scheduling an appointment. 
+You can stop by during the following times to ask questions *without scheduling an appointment*.
 
-* Monday: 11:30am-2pm
-* Tuesday: 9am-2pm
-* Wednesday: 11:30am-2pm
-* Thursday: by appointment
-* Friday: 11:30am-2pm
+* MWF 12:30 - 2:00 PM
+* TTh 11:30 - 2:00 PM
 
 To schedule an appointment outside of these hours, PM me on Slack.
 
