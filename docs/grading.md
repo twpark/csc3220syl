@@ -53,7 +53,7 @@ Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental cop
     * Do not deprive (too early) a fellow student of his/her opportunity to practice problem solving: control the urge to show them what to do by writing the code for them.
     * If you don't know how to do it wisely, ask the instructor or lab tutors to do it.
 * If you’ve given the assignment a fair effort and still need help, see the lab tutors or instructor.
-* **DOUBLE ZERO for plagiarism**: If there is any evidence that a program or other written assignment was copied from another student, both students will earn 'double zero' credit for the assignment. 
+* **DOUBLE ZERO for plagiarism**: If there is any evidence that a program or other written assignment was copied from another student or any source over the internet, all involved students will earn 'double zero' credit for the assignment.
     * That is, zero for the given assignment and another deduction of full credit amount of that assignment.
     * Following the university policy, the act will be automatically reported to department and dean's office.
 * Protect yourself: Handle throw-away program listings carefully.
