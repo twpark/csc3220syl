@@ -61,7 +61,11 @@ After receiving a code, (hopefully immediately) submit it through the following 
 
 * Inclement Weather
 
-    > Inclement weather or an emergency may on occasion affect SPU’s schedule. In some cases, classes and campus offices may shut-down entirely; in others there may be a late start or an early closure of the campus.  Two campus contacts will always carry the most up-to-date information on the campus schedule: the Emergency Closure Hotline (206-281-2800) and the SPU Home Page.  Since weather in the Seattle area can change rapidly, check these sites often for updates.  If SPU is open but you are unable to travel to campus due to inclement weather, please let your instructor know as soon as possible.   Finally, be sure to check your email for any messages from your instructor regarding class activities.
+    > Inclement weather or an emergency may on occasion affect SPU’s schedule. In some cases, classrooms and campus offices may shut-down entirely; in others there may be a late start or an early closure of the campus.  
+    
+    > The class may meet online or online video lecture materials may be provided. It is students' responsibility to check the communication channels at a regular basis to catch up with the online lecture.
+
+    > Two campus contacts will always carry the most up-to-date information on the campus schedule: the Emergency Closure Hotline (206-281-2800) and the SPU Home Page.  Since weather in the Seattle area can change rapidly, check these sites often for updates.  If SPU is open but you are unable to travel to campus due to inclement weather, please let your instructor know as soon as possible. Finally, be sure to check your email for any messages from your instructor regarding class activities.
 
 * Emergency procedure
 

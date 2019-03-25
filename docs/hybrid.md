@@ -1,8 +1,8 @@
 # Hybrid Class
 
-This class employs a hybrid scheme between traditional and online. The class meets **two times a week in person, on Mondays and Wednesdays**. Class hours on Fridays will be repurposed for open office hours for labs and questions.
+This class employs a hybrid scheme between traditional and online. The class meets **two times a week in person, on Mondays and Fridays**. Class hours on Wednesdays will be repurposed for open office hours for labs and questions.
 
-**THAT MEANS, THE CLASS DOES NOT MEET ON FRIDAYS.**
+**THAT MEANS, THE CLASS DOES NOT MEET ON WEDNESDAYS.**
 
 In-person session will cover lecture, quiz, group discussion and lab reflections, as well as next week's assignment introduction.
 

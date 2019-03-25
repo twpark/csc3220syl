@@ -4,9 +4,9 @@
 
 The lecture part of this class will ask you to read the texts and discuss it online, before the next class. Weekly discussion topic and instructions will be announced on Canvas, and additional explanation will be provided in class. You can check the topic and submit your discussion posts and replies on Canvas. (Click Discussions in the navigation bar of Canvas page)
 
-First, you are expected to submit your initial post by Thursday every week. Your initial post should have more than 250 words, while following the instruction.
+First, you are expected to submit your initial post by Wednesday 11:59 PM every week. Your initial post should have more than 250 words, while following the instruction.
 
-Then you will have two more days to leave **two** replies to others' posts, which is due on following Monday. Replies should have more than 100 words respectively.
+Then you will have two more days to leave **two** replies to others' posts, which is due on Friday 11:59 PM. Replies should have more than 100 words respectively.
 
 A few select posts/replies may be introduced in class, with consideration of extra credits (i.e., honors point).
 
@@ -14,9 +14,11 @@ Discussion assignments may not be given by instructor's discretion, depending on
 
 ## Lab Assignments
 
-This class gives majority of its focus on lab activities, supposed to be done individually, outside class. Lab assignments will be introduced in class, and due on a day before the next class. Hands-ons in class will be provided in a limited extent, due to skill disparities between students and time utilization's sake.
+This class gives majority of its focus on lab activities, supposed to be done individually, outside class. Lab assignments are due on Friday.
 
-Tutorial videos with online resources will be provided, so that you can follow the instructions at your pace. As well, Slack community/instructor assist is available, so consider taking its full advantage.
+For lab activities, tutorial videos with online resources will be provided, so that you can follow the instructions at your pace. As well, Slack community/instructor assist is available, so consider taking its full advantage.
+
+Hands-ons in class will be provided in a limited extent, due to skill disparities between students and time utilization's sake.
 
 # Assignment Policies
 
@@ -34,7 +36,8 @@ The following procedures apply to all assignments (unless specifically directed 
     * -30% for less than 3 days
     * -40% for less than 1 week
     * -50% for more than 1 week
-* Late submissions will **NOT** be accepted after Thursday, June 6.
+    * Late submissions  more than 2 weeks are not accepted.
+* On Thursday June 6 at 11:59 PM, course page will be shut down and no late submissions will be accepted.
 
 ### Technical Challenge and Late Submission
 Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental copies in multiple places. Flash drives and personal laptops only fail just prior to the due date of programming assignments (or so it seems). The instructor is very unlikely to perceive a storage or system crash as adequate grounds for allowing an extension of a due date!
